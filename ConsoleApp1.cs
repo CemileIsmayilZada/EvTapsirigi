@@ -7,7 +7,7 @@ else if(temperature>15){
     Console.WriteLine("Hava Istidir");
 }
 else{
-    Console.WriteLine("hava ne isti nede soyuqdu");
+    Console.WriteLine("hava ne isti ne de soyuqdu");
 }
 //Task 2
 
